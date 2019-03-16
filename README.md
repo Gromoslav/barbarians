@@ -1,1 +1,1 @@
-# gromoslav.github.io
+permalink: /index.html
